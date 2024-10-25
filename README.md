@@ -7,4 +7,4 @@
  You can run our project with Node.js prob
 
  Sincerely, <br/>
-     &emsp   Jack Winkler Full Stack Software Engineer/Technical Lead
+    &emsp; Jack Winkler Full Stack Software Engineer/Technical Lead
