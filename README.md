@@ -6,5 +6,5 @@
 
  You can run our project with Node.js prob
 
- Sincerely,
-        Jack Winkler Full Stack Software Engineer/Technical Lead
+ Sincerely, <br/>
+     &emsp   Jack Winkler Full Stack Software Engineer/Technical Lead
